@@ -1618,7 +1618,7 @@ input, select, textarea {
 		cursor: pointer;
 		border: 0;
 		border-radius: 5px;
-		background: #d52349;
+		background: #4c55d1;
 		color: #fff !important;
 		font-weight: 700;
 		outline: 0;
@@ -1636,7 +1636,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #e53359;
+			background: #5f6aff;
 		}
 
 		input[type="button"]:active,
@@ -1644,7 +1644,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #c51349;
+			background: #2c35ab;
 		}
 
 		input[type="button"].alt,
@@ -1832,7 +1832,7 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 1.3em;
-			background-color: #d52349;
+			background-color: #4c55d1;
 			height: 3.5em;
 			text-align: center;
 			color: #fff;
@@ -1847,7 +1847,7 @@ input, select, textarea {
 				position: absolute;
 				bottom: 0;
 				right: -1.2em;
-				border-left: solid 1.25em #d52349;
+				border-left: solid 1.25em #4c55d1;
 				border-top: solid 1.8em transparent;
 				border-bottom: solid 1.8em transparent;
 			}
@@ -1972,11 +1972,11 @@ input, select, textarea {
 					}
 
 				ul.social li a.fa-google-plus {
-					background: #da2713;
+					background: #4c55d1;
 				}
 
 					ul.social li a.fa-google-plus:hover {
-						background: #ea3723;
+						background: #4c55d1;
 					}
 
 /* Icons */
@@ -2121,7 +2121,7 @@ input, select, textarea {
 				}
 
 				#nav > ul > li.current > a {
-					background: #d52349;
+					background: #4c55d1;
 					color: #fff !important;
 					font-weight: 700;
 				}
